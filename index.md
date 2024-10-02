@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student at Nanjing University. My research interests include efficient inference of AI algorithms (such as quantization and pruning) and hardware acceleration for AI. I also have a great interest in the architecture of NPU/GPU and high-performance FPGA design.
+
+If you have any questions or cooperation, please feel free to contact me.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Software:** Quantization or Compression for CNN and LLMs
+- **Hardware:** Efficient hardware acceleration for all kinds of AI algorithms
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2024]** My paper about software and hardware Co-design for CNN is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD,CCF-A).
 
 {% include_relative _includes/publications.md %}
 
