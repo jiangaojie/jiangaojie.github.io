@@ -15,7 +15,7 @@ If you have any questions or cooperation, please feel free to contact me.
 
 ## News
 
-- **[Jan. 2024]** My paper about software and hardware Co-design for CNN is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD,CCF-A).
+- **[Jan. 2024]** My paper about software and hardware Co-design for CNN is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD,<strong>CCF-A</strong>).
 
 ## Internship
 - **[Jun. 2024 - Sep. 2024]** Research Intern in Penglai Lab at Tencent(ShenZhen)
