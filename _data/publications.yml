@@ -3,7 +3,7 @@ main:
   - title: "GroupQ: Group-Wise Quantization With Multi-Objective Optimization for CNN Accelerators"
     authors: <strong>Aojie Jiang</strong>, Li Du*, Yuan Du*(*Corresponding authors)
     conference_short: TCAD
-    conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+    conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(<strong>CCF-A</strong>)
     pdf: https://ieeexplore.ieee.org/abstract/document/10423832
     image: ./assets/img/GROUPQ.png
     notes: Accept
