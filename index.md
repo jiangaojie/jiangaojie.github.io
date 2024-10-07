@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a 3th-year Master candidate in the School of Electronic Science and Engineering at Nanjing University. My research interests include efficient inference of AI algorithms (such as quantization and pruning) and hardware acceleration for AI. I also have a great interest in the architecture of NPU/GPU and high-performance FPGA design.
+Hi! I am a 3th-year Master candidate in the School of Electronic Science and Engineering at Nanjing University. I was supervised by Professor Yuan Du and Li Du at [ISCL lab](https://iscl.nju.edu.cn/42924/list.htm). My research interests include efficient inference of AI algorithms (such as quantization and pruning) and hardware acceleration for AI. I also have a great interest in the architecture of NPU/GPU and high-performance FPGA design.
 
 If you have any questions or cooperation, please feel free to contact me.
 
