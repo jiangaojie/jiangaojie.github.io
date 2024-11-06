@@ -12,7 +12,9 @@ If you have any questions or cooperation, please feel free to contact me.
 
 - **Software:** Quantization or Compression methods for CNN and LLMs
 - **Hardware:** Efficient hardware acceleration for AI algorithms
+    
     Now, I am focusing on the domain specific systems for efficient LLM deployment 
+    
 ## News
 
 - **[Nov. 2024]** I have been awarded the <strong>National Scholarship</strong>.
