@@ -15,6 +15,7 @@ If you have any questions or cooperation, please feel free to contact me.
 
 ## News
 
+- **[Nov. 2024]** I have been awarded the <strong>National Scholarship</strong>.
 - **[Jan. 2024]** My paper about software and hardware Co-design for CNN is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD,<strong>CCF-A</strong>).
 
 ## Internship
