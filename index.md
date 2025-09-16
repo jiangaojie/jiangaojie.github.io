@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a first-year PHD candidate in the School of Electronic Science and Engineering at Nanjing University. I am supervised by Professor Li Du and Yuan Du at [ISCL lab](https://iscl.nju.edu.cn/42924/list.htm). Prior to this, I obtained a bachelor's degree from Northeast Forestry University and was later admitted to Nanjing University through recommendation (Ranking 1/111).
+Hi! I am a first-year PHD candidate in the School of Electronic Science and Engineering at Nanjing University. I am supervised by Professor Li Du and Yuan Du at [ISCL lab](https://iscl.nju.edu.cn/42924/list.htm). Prior to this, I obtained a bachelor's degree from Northeast Forestry University (Ranking 1/111) and was later admitted to Nanjing University through recommendation.
 
 If you have any questions, I very welcome you to contact me.
 
