@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a 1th-year Phd candidate in the School of Electronic Science and Engineering at Nanjing University. I am supervised by Professor Li Du and Yuan Du at [ISCL lab](https://iscl.nju.edu.cn/42924/list.htm). Prior to this, I obtained a bachelor's degree from Northeast Forestry University and was later admitted to Nanjing University through recommendation (<strong>ranking 1/111</strong>).
+Hi! I am a 1th-year Phd candidate in the School of Electronic Science and Engineering at Nanjing University. I am supervised by Professor Li Du and Yuan Du at [ISCL lab](https://iscl.nju.edu.cn/42924/list.htm). Prior to this, I obtained a bachelor's degree from Northeast Forestry University and was later admitted to Nanjing University through recommendation (Ranking 1/111).
 
 If you have any questions, I very welcome you to contact me.
 
 ## Research Interests
 
-With the increasing demand for computing power and bandwidth in LLM training/inference, exploring collaborative optimization across multiple system levels is an important direction to improve the overall efficiency of the system. Therefore, my main research now is the </strong>design and optimization of AI accelerator scale-up network</strong>. From the two dimensions of hardware design and software modeling, I explore system optimization methods among multiple system levels through </strong>cross-layer co design</strong>, such as deployment layer, AI accelerator layer, communication layer and interconnection layer, to improve the overall performance of AI system.
+With the increasing demand for computing power and bandwidth in LLM training/inference, exploring collaborative optimization across multiple system levels is an important direction to improve the overall efficiency of the system. Therefore, my main research now is the <strong>design and optimization of AI accelerator scale-up network</strong>. From the two dimensions of hardware design and software modeling, I explore system optimization methods among multiple system levels through <strong>cross-layer co design</strong>, such as deployment layer, AI accelerator layer, communication layer and interconnection layer, to improve the overall performance of AI system.
 
 I am currently building a scale-up prototype system on hardware, and at the same time, developing a software performance model    
 ## News
